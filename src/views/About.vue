@@ -3,11 +3,11 @@
         <div class="site-content">
             <div class="content-warp">
                 <div class="about-site about-info">
-                    <section-title><span>❤</span>关于博客</section-title>
+                    <section-title><span>❤</span>关于ZZZBlog</section-title>
                     <div class="info-card">
-                        <p>偶然之间看见了<a target="_blank" class="out-link" href="https://zhebk.cn/Web/Akina.html">Akina For Typecho</a>博客的主题，风格很是喜欢。</p>
-                        <p>然后就开始用Vue搭建这种风格的博客，在此呢也将这套模板开放给大家。</p>
-                        <p><a target="_blank" href="https://gitee.com/fengziy/Gblog" style="color: #ff6d6d;">Gitee仓库</a> | <a target="_blank" href="https://github.com/fengziye/Gblog" style="color: #ff6d6d;">Github仓库</a>记得star★哟</p>
+                      <p><span style="color: #0aaeb3" >ZZZ Blog</span> 基于开源博客UI <a href="https://gitee.com/fengziy/Gblog" style="color: #f35a5a">G-blog</a> 开发而成</p>
+                        <br>
+                        <p>现已将项目开源到我的个人 Github <a target="_blank" href="https://github.com/KeKeKuKi" style="color: #ff6d6d;">github.com/KeKeKuKi</a> </p>
                     </div>
                 </div>
                 <div class="about-me about-info">
@@ -15,11 +15,11 @@
                     <div class="info-card">
                         <div class="contactForm">
                             <div class="form-item">
-                                <label for="mail">邮箱</label>
+                                <label for="mail">您的邮箱</label>
                                 <input class="v" type="email" name="mail" id="mail">
                             </div>
                             <div class="form-item">
-                                <label for="content">内容</label>
+                                <label for="content">批评和建议</label>
                                 <textarea class="v" id="content" name="content"></textarea>
                             </div>
                             <div class="form-item">
@@ -91,7 +91,7 @@
                     margin-bottom: 20px;
                 }
                 label{
-                  width: 80px;
+                  width: 110px;
                 }
                 .v{
                     min-height: 40px;
