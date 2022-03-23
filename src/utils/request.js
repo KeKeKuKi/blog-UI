@@ -4,8 +4,8 @@ import store from '@/store'
 // create an axios instance
 const service = axios.create({
     // baseURL: process.env.VUE_APP_BASE_API,
-    baseURL: 'http://localhost:8600/blog-server',
-    // baseURL: 'http://162.14.77.8:8899',
+    // baseURL: 'http://localhost:8600/blog-server',
+    baseURL: 'http://162.14.77.8:8600/blog-server',
     withCredentials: false
 })
 
