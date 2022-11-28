@@ -7,14 +7,13 @@
       </div>
       <div class="footer-item">
         <div style="font-size:17px;font-weight: bold;">友情链接</div>
-        <div><a target="_blank" class="out-link" href="https://segmentfault.com/weekly?utm_source=sf-footer">每周精选</a>
+        <div><a target="_blank" class="out-link" href="https://www.baidu.com">百度</a>
         </div>
-        <div><a target="_blank" class="out-link" href="https://www.jmjc.tech/">简明教程</a></div>
-        <div><a target="_blank" class="out-link" href="https://www.liaoxuefeng.com/">廖雪峰的官方网站</a></div>
+        <div><a target="_blank" class="out-link" href="https://www.google.com/">Goole</a></div>
       </div>
       <div class="footer-item">
         <div>本站已正常运行 {{ runTimeInterval }}</div>
-        <div><a target="_blank" class="out-link" href="#">☞后台管理快捷入口</a></div>
+        <div><a target="_blank" class="out-link" href="http://162.14.77.8:8080/">☞后台管理快捷入口</a></div>
       </div>
     </div>
     <div class="copyright">Copyright © 2020 by <a target="_blank" class="out-link" href="https://www.fengziy.cn">fengziy.cn</a>
